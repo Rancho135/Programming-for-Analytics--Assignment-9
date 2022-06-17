@@ -1,0 +1,5 @@
+Reading from a file
+Reading an entire file
+File paths
+Reading line by line-making list of lines from a file 
+Working with files contents
